@@ -1,5 +1,5 @@
 # Welcome to Sesame
-Sesame Compiler v1.0 Pre-Alpha
+Sesame Compiler v1.0 Alpha (Note: In the next version, the code will become less messy :))
 
 ## What is Sesame Compiler?
 Sesame Compiler's main purpose is to convert .sb3 (Scratch 3) files into C++.
