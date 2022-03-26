@@ -24,9 +24,8 @@ Here is a list of all supported blocks so far:
   - change variable by
   - custom blocks (No parameters so far)
   - calling custom blocks
-And these features are great and all, but we need some
 
-# More features
+# What are some features to be added?
 These are the features to be added in v1.1
   - Pen blocks
   - Multiple parameter blocks
